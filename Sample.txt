@@ -1,1 +1,2 @@
 This is a sample document to learn git and github.
+This is the first edit made to this document.
