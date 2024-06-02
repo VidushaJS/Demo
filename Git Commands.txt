@@ -1,0 +1,14 @@
+Open git bash in project folder.
+
+Initializing the project with git:- git init
+
+Add the project to git :- git add .
+
+commit:- git commit -m "commit name"
+
+Link with github repo:- git remote add origin https://your repo link
+
+change branch master to main:- git branch -M main
+
+Push the project 1st time:- git push -u origin main
+		
